@@ -1,0 +1,1 @@
+git push origin --delete <브랜치명>을 적으면 remote repo(원격 저장소)에서도 브랜치명이 사라짐
